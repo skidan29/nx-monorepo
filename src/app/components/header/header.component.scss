@@ -3,5 +3,12 @@
     height: 52px;
     width: 100%;
     background: cadetblue;
+    padding: 16px;
+
+    &__nav{
+      display: flex;
+      list-style: none;
+      padding: 0;
+    }
   }
 }
