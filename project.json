@@ -4,6 +4,9 @@
   "projectType": "application",
   "prefix": "nx-monorepo",
   "sourceRoot": "./src",
+  "cli": {
+    "packageManager": "yarn"
+  },
   "tags": [],
   "targets": {
     "build": {
